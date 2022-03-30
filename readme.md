@@ -7,4 +7,4 @@ some text
 some more text dddd 
 ## local dev
 
-1. open index.html in your browser
+1. open index.html in your browser ggggkkk
